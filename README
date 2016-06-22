@@ -1,0 +1,7 @@
+Check of any JSON file using the library https://github.com/akheron/jansson
+
+
+1) Get this : git clone https://github.com/progman/jansson_check.git
+2) Make this: git submodule update --init && make x64 && ./test.sh
+3) Use this : jansson_check FILE.JSON
+4) Enjoy!
